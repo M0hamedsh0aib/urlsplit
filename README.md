@@ -28,6 +28,7 @@ This script takes a list of URLs from a file, extracts unique endpoints, and sto
 ## Python Module Installation
 [PyPi Module Link](https://pypi.org/project/directory-splitter/1.0.0/ )
 bash
+
 pip install directory-splitter
 
  
